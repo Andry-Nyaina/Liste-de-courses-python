@@ -13,15 +13,14 @@ Ce dépôt contient plusieurs versions d’un petit projet de gestion de liste d
 - Manipuler les fichiers
 - Découvrir le format JSON
 
-## 📌 Utilisation
-
-bash
-cd La-liste-de-course-avec-sauvergade
-
-python main.py
-
 ## Resultat du code
 <img width="1152" height="763" alt="image" src="https://github.com/user-attachments/assets/337f851f-1d12-432d-9273-b0deeba63f37" />
 
 ## 📄 Dans le fichier.json
 <img width="598" height="315" alt="image" src="https://github.com/user-attachments/assets/26cc8c1d-355b-48ef-b309-1e7bb1f150f8" />
+
+## 📌 Utilisation
+
+```bash
+cd version_avec_sauvegarde
+python3 liste_sauvegarde.py
